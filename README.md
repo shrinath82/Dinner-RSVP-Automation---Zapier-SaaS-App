@@ -1,3 +1,8 @@
+# Dinner RSVP Automation - Zapier SaaS App
+
+A SaaS-based RSVP automation system built using Zapier. This project includes an RSVP form for users to confirm attendance and automates email responses based on their RSVP status.
+
+
 1. Overview:
    This project automates the RSVP process using Zapier. It collects responses through a form and sends personalized emails based on the user's response.
 
