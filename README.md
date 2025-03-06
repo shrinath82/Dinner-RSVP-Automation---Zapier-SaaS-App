@@ -17,3 +17,6 @@
    Zapier Interfaces (Form Builder)
    Zapier Paths (Conditional Logic)
    Zapier Email & Delay
+
+   ![Resources flow chart](https://raw.githubusercontent.com/shrinath82/Dinner-RSVP-Automation---Zapier-SaaS-App/main/screenshots/Resources%20flow%20chart.png)
+
