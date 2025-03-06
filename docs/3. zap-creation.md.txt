@@ -1,0 +1,35 @@
+Create the RSVP automation zap in Zapier:
+
+1. Introduction
+This document explains how to set up a Zapier automation for processing RSVP responses.
+
+2. Steps to Create the Zap
+Trigger: Form Submission
+
+Open Zapier and create a new Zap.
+Select Zapier Interfaces as the trigger app.
+Choose the event: Form Submission Created.
+Connect the RSVP form.
+Action: Split Responses into Paths
+
+Add a Paths by Zapier action. Create two paths:
+Yes (Attending) → Send confirmation email + Reminder email.
+No (Not Attending) → Send thank-you email.
+
+Action: Send Email for Attendees
+Select Email by Zapier.
+Configure the subject: "You're Confirmed for the Dinner Party!"
+Add event details in the body.
+
+Action: Schedule Reminder Email
+Add Delay by Zapier (Set for 1 day before the event).
+Send a reminder email.
+
+Action: Send Thank-You Email for Non-Attendees
+Use Email by Zapier.
+Configure the subject: "Thanks for Your Response!"
+Send a friendly message.
+
+3. Testing the Zap
+Submit test responses and verify email triggers.
+

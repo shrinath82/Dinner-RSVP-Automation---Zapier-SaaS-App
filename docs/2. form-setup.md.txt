@@ -1,0 +1,26 @@
+Set up the RSVP form using Zapier interfaces
+
+1. Introduction
+This document explains how to create a form using Zapier interfaces for collecting RSVP responses.
+
+2. Steps to Create the Form
+Go to Zapier interfaces
+
+Navigate to Zapier Interfaces.
+Click create interface and choose form.
+Configure the form fields
+
+Name (Required, Text Input)
+Email (Required, Email Input)
+Will you be attending the dinner party? (Required, Multiple Choice: Yes/No)
+Customize the Form
+
+Add a title: Dinner Party RSVP
+Set a description explaining the event.
+Click Publish and note the form’s URL.
+Testing the form
+
+Open the form in a browser and submit a test response.
+3. Screenshot
+
+
