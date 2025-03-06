@@ -1,7 +1,0 @@
-Project Statement - Dinner RSVP Automation:
-Create a Zapier Interfaces Form asking people to RSVP for a dinner that you’re hosting. 
-For anyone that says yes, please send them an email letting them know further details, and then set up a reminder email that is sent to them 1 day before the event. 
-For everyone that responds no, please send them an email thanking them for filling out the form. 
-This should be done in one Zap
-
-
