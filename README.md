@@ -19,4 +19,4 @@
    Zapier Email & Delay
 
    ![Resources flow chart](https://raw.githubusercontent.com/shrinath82/Dinner-RSVP-Automation---Zapier-SaaS-App/main/screenshots/Resources%20flow%20chart.png)
-
+   ![Resources flow chart](https://github.com/shrinath82/Dinner-RSVP-Automation---Zapier-SaaS-App/blob/main/screenshots/zaps/4%20Test%20your%20zap.png)
